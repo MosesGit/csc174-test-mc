@@ -2,5 +2,7 @@ Google
 Microsoft
 Yahoo
 Apple
+Facebook
+WeChat
 
 Edit: Chen
